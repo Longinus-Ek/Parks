@@ -1,5 +1,8 @@
 ```
-Exercicio 1: Utilização executando através do terminal. Basta apontar o diretorio para a pasta exercicio1 e executar com o comando python exercicio1
+Exercicio 1: Baixe o arquivo da pasta exercise1, aponte o terminal para o diretório da pasta exercise1 e execute o arquivo Python (python config_manager.py).
+            Escolha a opção desejada digitando 1 para ler a configuração atual ou 2 para escrever uma nova configuração.
+            Siga as instruções fornecidas pelo programa para ler ou escrever as configurações.
+            O arquivo config.json será criado ou atualizado conforme necessário, e as informações serão exibidas na tela conforme solicitado.
 ```
 ```
 Exercicio 2: baixe o arquivo da pasta parks, aponte o terminal para o diretorio parkExercise e utilize o comando python manage.py runserver para executar o servidor django. Logo após abra outro terminal e aponte para a pasta parks_vue e execute npm run serve. Acesse localhost:8080 no seu navegador para acessar o web app.
