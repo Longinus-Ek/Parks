@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-vue": "^2.23.1",
+    "datatables.net": "^2.0.1",
+    "datatables.net-bs5": "^2.0.1",
+    "jquery": "^3.7.1",
+    "sweetalert2": "^11.10.5",
+    "vue": "^2.7.16",
+    "vue-sweetalert2": "^5.0.5"
+  }
+}
